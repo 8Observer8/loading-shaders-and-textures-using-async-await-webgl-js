@@ -7,6 +7,8 @@ Playgrounds:
 - Plunker: https://plnkr.co/edit/KaDgu8R6NJxnDEbO?preview
 - Replit: https://replit.com/@8Observer8/Load-Texture-with-Promise-using-WebGL-and-JS
 
+![loading-shaders-and-textures-using-async-await-webgl-js](https://github.com/8Observer8/loading-shaders-and-textures-using-async-await-webgl-js/assets/3908473/f7b949ad-0dc5-4a31-b08c-61723b031ee5)
+
 Instruction for building and running the project in debug and release using Rollup:
 
 - Install these packages globally with the command:
